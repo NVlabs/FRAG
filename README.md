@@ -1,5 +1,9 @@
 # FRAG: Frame Selection Augmented Generation
 
+[De-An Huang](https://ai.stanford.edu/~dahuang/), [Subhashree Radhakrishnan](), [Zhiding Yu](https://chrisding.github.io/), [Jan Kautz](https://jankautz.com/)
+
+[[`arXiv`]()] [[`Project`]()] [[`BibTeX`](#Citation)]
+
 
 ## Contents
 - [Install](#install)
@@ -163,7 +167,26 @@ This script evaluates FRAG by selecting the top `$num_frames` frames. Here, `$nu
 bash scripts/document/eval_internvl-8b-max16_topk_frames.sh slidevqa 2
 ```
 
+## License
 
+Copyright © 2025, NVIDIA Corporation. All rights reserved.
+
+This work is made available under the Nvidia Source Code License-NC. Click [here](LICENSE) to view a copy of this license.
+
+For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/).
+
+
+## <a name="Citation"></a> Citation
+
+If you find FRAG useful for your research and applications, please cite using this BibTeX:
+```bibtex
+@article{huang2025frag,
+  title={FRAG: Frame Selection Augmented Generation for Long Video and Long Document Understanding},
+  author={De-An Huang and Subhashree Radhakrishnan and Zhiding Yu and Jan Kautz},
+  journal={arXiv preprint},
+  year={2025}
+}
+```
 
 
 
