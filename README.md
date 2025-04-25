@@ -2,7 +2,7 @@
 
 [De-An Huang](https://ai.stanford.edu/~dahuang/), [Subhashree Radhakrishnan](), [Zhiding Yu](https://chrisding.github.io/), [Jan Kautz](https://jankautz.com/)
 
-[[`arXiv`]()] [[`Project`]()] [[`BibTeX`](#Citation)]
+[[`arXiv`](https://arxiv.org/abs/2504.17447)] [[`Project`]()] [[`BibTeX`](#Citation)]
 
 
 ## Contents
@@ -183,7 +183,7 @@ If you find FRAG useful for your research and applications, please cite using th
 @article{huang2025frag,
   title={FRAG: Frame Selection Augmented Generation for Long Video and Long Document Understanding},
   author={De-An Huang and Subhashree Radhakrishnan and Zhiding Yu and Jan Kautz},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2504.17447},
   year={2025}
 }
 ```
